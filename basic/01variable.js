@@ -1,4 +1,4 @@
-const accountId = 06021994; // this is the constant value not change
+const accountId = 6021994; // this is the constant value not change
 let accountEmail = "vishaljunghare0430@gmail.com"; // this {let} variable always change it value
 
 var accountPassword = "Vishal6294@"; // this {let} variable always change it value 
